@@ -49,8 +49,8 @@ Determinar qué operadores están teniendo un bajo desempeño al analizar datos 
 
 ## 👩‍💻 Sobre mí
 
-Soy Analista de Datos Jr. con experiencia en proyectos de inteligencia de negocios, análisis estadístico y visualización de datos.  
-Conecto información con decisiones estratégicas.  
+Jonathan Lazazrillo  
+xjoniix@gmail.com
 [Conéctate conmigo en LinkedIn](https://www.linkedin.com/in/Jonathan-Lazarillo)
 
 ---
